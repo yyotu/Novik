@@ -20,6 +20,7 @@
       url("../fonts/gilroy-bold.ttf") format("truetype"),
     /* Safari, Android, iOS */ url("../fonts/gilroy-bold.svg#gilroy-bold")
       format("svg"); /* Chrome < 4, Legacy iOS */
+
 }
 
 html {
