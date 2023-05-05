@@ -518,7 +518,7 @@ a {
 
   .helper {
     display: flex;
-    width: 0%;
+    width: 80%;
   }
 
   .burger-btn {
