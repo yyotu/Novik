@@ -7,5 +7,6 @@ burgerBtn.onclick = (function (){
     navigation.classList.toggle('active');
 })
 
+
 console.log(burgerBtn)
 console.log(navigation)

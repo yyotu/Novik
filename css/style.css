@@ -188,11 +188,15 @@ html {
   color: #828282;
 }
 
-.Denis {
+.heading {
   font-family: "Gilroy-Bold";
   font-size: 47.3392px;
   line-height: 59px;
   text-align: center;
+}
+
+.heading {
+  padding-top: 20px;
 }
 
 p {
@@ -298,16 +302,17 @@ h2 {
   color: black;
 }
 
-.hi p {
+#welcome-subtitle {
   text-align: center;
 }
+
+.welcome {
+  width: 500px;
+}
+
 /* #hi-p{
 color: black;
 } */
-
-.hi {
-  width: 500px;
-}
 
 .about-him-container {
   display: flex;
@@ -493,10 +498,6 @@ a {
     width: 100%;
   }
 
-  .Denis {
-    padding-top: 20px;
-  }
-
   .navigation {
     position: relative;
   }
@@ -592,6 +593,10 @@ a {
 
   .active {
     left: 0%;
+  }
+
+  .close {
+    left: 100%;
   }
 
   .container-navigation {
@@ -704,7 +709,7 @@ a {
     flex-direction: column;
   }
 
-  .hi {
+  .welcome {
     width: 318px;
   }
 
