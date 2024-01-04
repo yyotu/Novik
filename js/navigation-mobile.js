@@ -1,4 +1,5 @@
-const navigation = document.querySelector('.menu-link');
+const navigationMobile = document.querySelector('.menu-link');
+
 
 
 
